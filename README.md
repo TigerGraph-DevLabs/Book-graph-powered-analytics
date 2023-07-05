@@ -2,7 +2,7 @@
 
 This repository contains resources to accompany
 
-= Graph-Powered Analytics and Machine Learning with TigerGraph
+# Graph-Powered Analytics and Machine Learning with TigerGraph
 
 === _Driving Business Outcomes with Connected Data_
 
