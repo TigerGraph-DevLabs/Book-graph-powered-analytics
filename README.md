@@ -4,7 +4,7 @@ This repository contains resources to accompany
 
 # Graph-Powered Analytics and Machine Learning with TigerGraph
 
-=== _Driving Business Outcomes with Connected Data_
+### _Driving Business Outcomes with Connected Data_
 
 by Victor Lee, Phuc Kien Nguyen, and Alexander Thomas
 
