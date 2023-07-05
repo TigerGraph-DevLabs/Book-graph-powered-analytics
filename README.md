@@ -9,7 +9,7 @@ This repository contains resources to accompany
 by Victor Lee, Phuc Kien Nguyen, and Alexander Thomas
 
 
-== Table of Contents
+## Table of Contents
 
 figures
 
