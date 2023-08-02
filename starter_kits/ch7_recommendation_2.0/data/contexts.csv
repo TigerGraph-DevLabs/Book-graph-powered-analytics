@@ -1,0 +1,7 @@
+id,ctx_value
+GW,good_weather
+BW,bad_weather
+T1,after_midnight
+T2,breakfast
+T3,lunch
+T4,dinner
